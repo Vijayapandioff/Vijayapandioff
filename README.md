@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Vijayapandioff
-- 👀  
-- 🌱  
+- 👋 Hi, I’m @Vijayapandi
 
 <!---
 Vijayapandioff/Vijayapandioff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
